@@ -1,2 +1,0 @@
-# Demo-MCP-Server
-Demo
